@@ -1,5 +1,5 @@
 # Removing-Front-Door-Software
-A quick guide for removing frontdoorsoftware - This anti-theft program was installed on my computer by my university. However, they failed to remove this location tracking software upon graduation, and frontdoorsoftware has since gone out of businuess. These are my findings and what I did to completely uninstall it from my system without having to reinstall windows.
+A quick guide for removing frontdoorsoftware - This anti-theft program was installed on my computer by my university. However, they failed to remove this location tracking software upon graduation, and frontdoorsoftware has since gone out of business. Without access to the admin panel & code, this is a slightly more difficult process. These are my findings and what I did to completely uninstall it from my system without having to reinstall windows.
 
     Search in the task manager for FDS, close the process.
     Delete C:\Program Files\FrontDoorSoftware
