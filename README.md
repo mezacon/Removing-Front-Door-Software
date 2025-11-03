@@ -3,7 +3,7 @@ A quick guide for removing frontdoorsoftware - This anti-theft program was insta
 
     Search in the task manager for FDS, close the process.
     Delete C:\Program Files\FrontDoorSoftware
-    Delete these files in system32: (Determined by create & modify dates that match the FrontDoorSoftware folder, among other things)
+    Delete these files in C:\Windows\System32: (Determined by create & modify dates that match the FrontDoorSoftware folder, among other things)
         RunFDS.exe
         UIQ.exe
         FDSMedia.exe
